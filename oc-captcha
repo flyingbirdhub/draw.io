@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T07:38:42.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Z5fSezak3eDqL36SGgi-" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T07:39:24.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XLCneAFms71timXqpO3Z" version="17.4.5" type="github">
   <diagram id="2TICPFmWOOwbNYreepiv" name="Page-1">
     <mxGraphModel dx="1234" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
             <mxPoint x="830" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B2Oxb2gmTACC3sZC1xca-28" value="OcCaptchaPasscode=[passcode]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="B2Oxb2gmTACC3sZC1xca-28" value="query api resource with http header OcCaptchaPasscode=[passcode]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="630" y="310" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B2Oxb2gmTACC3sZC1xca-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="B2Oxb2gmTACC3sZC1xca-31">
